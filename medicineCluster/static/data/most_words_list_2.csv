@@ -1,0 +1,21 @@
+,Cluster :0,Cluster :1,Cluster :2
+0,inhibitor,activity,inhibition
+1,inhibition,cell,compound
+2,compound,abstract,abstract
+3,novel,title,receptor
+4,potent,inhibition,human
+5,human,compound,affinity
+6,selective,assay,binding
+7,abstract,human,cell
+8,assay,agent,title
+9,title,analog,assay
+10,hydrolase,assessed,agent
+11,soluble,derivative,analog
+12,epoxide,acid,analogue
+13,derivative,antiproliferative,displacement
+14,enzyme,synthesis,novel
+15,cell,analogue,antagonist
+16,activity,biological,synthesis
+17,based,novel,potent
+18,protein,mycobacterium,acid
+19,synthesis,cytotoxicity,cancer

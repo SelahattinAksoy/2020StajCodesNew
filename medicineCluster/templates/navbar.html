@@ -1,0 +1,18 @@
+
+{% block name %}
+{% if name %}
+
+  <nav class="navbar navbar-dark" style="background-color:#594f8d">
+    <div class="container">
+        <a class="navbar-brand" href="#">{{name}}  |</a>
+          <a onclick="activate('2d_graph')" class="navbar-brand" href="#"><i class="fa fa-signal"></i> 2D PLOT</a>
+            <a onclick="activate('3d_graph')" class="navbar-brand" href="#"><i class="fa fa-signal"></i> 3D PLOT</a>
+                <a onclick="activate('detail')" class="navbar-brand" href="#"><i class="fa fa-book"></i> DETAİL</a>
+                    <a class="navbar-brand" href="#"></a>
+    </div>
+         
+ </nav>
+
+ {% endif %}
+
+{% endblock %}

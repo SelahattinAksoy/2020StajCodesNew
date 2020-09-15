@@ -1,0 +1,21 @@
+,Cluster :0,Cluster :1,Cluster :2
+0,cell,inhibitor,receptor
+1,cancer,compound,antagonist
+2,agent,acid,affinity
+3,compound,analogue,opioid
+4,line,enzyme,agonist
+5,analog,study,ligand
+6,antitumor,peptide,brain
+7,cytotoxicity,cell,analogue
+8,anticancer,derivative,compound
+9,tubulin,kinase,expressed
+10,conjugate,novel,selective
+11,growth,protein,selectivity
+12,topoisomerase,potency,kappa
+13,effect,selective,allosteric
+14,derivative,structure,analog
+15,tumor,tuberculosis,dopamine
+16,novel,active,cell
+17,drug,substrate,sigma
+18,antiproliferative,design,delta
+19,prostate,identified,adenosine

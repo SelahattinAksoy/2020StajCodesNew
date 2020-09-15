@@ -1,0 +1,24 @@
+    
+
+    <div class="sidebar" style="margin-top:30px">
+      
+{% block name %}
+{% if name %}
+   <h2>{{name}}</h2><hr style="background-color: #ccc;">
+
+{% else %}
+        <h2>Choose the<br> Type</h2>
+{% endif %}
+        <ul>
+
+            <li><a  href="/tfidf"  href="#">TFIDF</a></li>
+            <li><a  href="/countvc"    href="#">COUNTVECT.</a></li>
+          
+
+
+        </ul> 
+
+        
+
+    </div>
+{% endblock %}
